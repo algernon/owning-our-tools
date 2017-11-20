@@ -51,6 +51,14 @@ productivity, but our feeling of comfort as well.
  [ez]: https://ergodox-ez.com/
  [olkb]: https://olkb.com/
 
+### Resources
+
+* [Multi-purpose keys, and a case for smaller keyboards][blog:mpk]
+* [Xah Lee's keyboard articles][xah:keyboards]
+
+ [blog:mpk]: https://asylum.madhouse-project.org/blog/2016/10/15/multi-purpose-keys/
+ [xah:keyboards]: http://xahlee.info/kbd/keyboarding.html
+
 <!-- Submission notes -->
 ## Submission notes
 

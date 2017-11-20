@@ -26,7 +26,50 @@ productivity, but our feeling of comfort as well.
 <!-- full description -->
 ## Full description
 
-...
+Most of us have worked with keyboards here. Most of us think we have a solid
+idea about how we can use our keyboards efficiently. Most of us think keyboards,
+in general, are safe. Most of us think keyboards are simple.
+
+Most of us are wrong.
+
+We have been using the same layout (both physical and logical) for decades, with
+minor variations, hardly ever questioning if we can do better. Even worse, we
+have been trained to think that keyboards can only work the way they usually do
+now. How many of you heard about the [Space Cadet Shift][scs]? Or
+[dual-use][dual-use] keys? Or layers? Or [tap-dance][td]? All of these can
+provide tremendous benefit. But to use them, we need to program our keyboards.
+
+ [scs]: http://stevelosh.com/blog/2012/10/a-modern-space-cadet/#shift-parentheses
+ [dual-use]: https://github.com/keyboardio/Kaleidoscope-DualUse#kaleidoscope-dualuse
+ [td]: https://github.com/keyboardio/Kaleidoscope-TapDance#kaleidoscope-tapdance
+
+Keyboards can be dangerous tools in the wrong hands. We have seen
+[keyloggers][mantistek:gk2] in various keyboards. We have seen Bluetooth devices
+being [vulnerable][btvuln], keyboards and mice alike. To combat these issues, to
+be able to fix our most basic input devices, we need to control the firmware.
+
+ [mantistek:gk2]: http://www.tomshardware.com/news/mantistek-gk2-collects-typed-keys,35850.html
+ [btvuln]: https://www.wired.com/2016/02/flaws-in-wireless-mice-and-keyboards-let-hackers-type-on-your-pc/
+
+Many people feel keyboards are simple. You press keys, they appear on the
+screen. Done. What is so hard about that? Oh boy. There is so much more you can
+do! You can control LEDs, so when your build fails, or your IDE shows an error,
+your keyboard (or its underglow) turns red. You can program macros, shortcuts,
+put them on layers! You can teach the keyboard how to input an unicode ☃, and
+all kinds of 💩!
+
+In recent years, there has been a growing interest in keyboard kits and DIY
+keyboards. With 3D printers, and parts getting more affordable or accessible, a
+whole world of makers are building amazing keyboards. Most of them with open
+source firmware.
+
+Armed with an open source firmware, we can sleep better, knowing that our
+keyboard won't spy on us. Knowing that if there is a bug somewhere, we can fix
+it. If we want to do something strange, like control the mouse from the
+keyboard, we can do that. We can control a touchpad too. Or a joystick. Or a
+Steno machine. We can do whatever we want to.
+
+And I'm here to tell you stories about all of these things and more.
 
 <!-- Links & resources -->
 ## Links & resources
